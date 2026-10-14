@@ -1,0 +1,13 @@
+pandas==2.2.0
+numpy==1.26.4
+pypdf==4.2.0
+langchain==0.1.16
+langchain-community==0.0.34
+sentence-transformers==2.5.1
+streamlit==1.32.0
+matplotlib==3.8.3
+seaborn==0.13.2
+jupyterlab==4.1.5
+# Optional — pick ONE LLM backend:
+# openai==1.30.5          # paid; set OPENAI_API_KEY
+# requests==2.31.0        # for local Ollama; already implied by other deps
