@@ -2,7 +2,8 @@
 
 A retrieval-augmented generation chatbot that answers questions about a PDF document corpus with source citations. Auto-detects between OpenAI GPT-4o-mini and local Ollama Llama 3 8B.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** _https://nlp-customer-voice-analytics-lfdnamkbjducednfpucwfm.streamlit.app/_
+
 **Author:** Fatima Hassan — [github.com/Fatimahassan-analytics](https://github.com/Fatimahassan-analytics)
 
 ---
